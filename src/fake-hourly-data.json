@@ -1,0 +1,14 @@
+{
+  "totalBlocked": "157",
+  "totalSqlInjection": "42",
+  "totalAuthBroken": "33",
+  "totalXSS": "82",
+  "dates": ["18.00", "19.00", "20.00", "21.00", "22.00", "23.00"],
+
+  "data": {
+    "sqlInjection": [7, 6, 3, 4, 2, 9],
+    "authBroken": [3, 5, 3, 2, 1, 5],
+    "xss": [6, 8, 4, 3, 2, 6],
+    "line": [8, 9, 4, 3, 2, 1]
+  }
+}
